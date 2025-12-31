@@ -1,24 +1,4 @@
-let apiKey = "c3f8b97d960f40bd0a8fb14e";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// const BASE_URL = "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/";
-
-
-
-
+let apiKey = "You API Key";
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
 const fromCurr = document.querySelector(".from select");
